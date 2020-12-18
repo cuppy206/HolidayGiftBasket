@@ -1,0 +1,31 @@
+body {
+    background-image: url(Fireworks.png);
+}
+
+.font {
+    font-family: "Century Gothic", CenturyGothic, sans-serif;
+}
+
+.treats {
+    color: white;
+    padding: 8px;
+  }
+
+  .wine-type {
+    color: white;
+    padding: 8px;
+  }
+
+  .submission {
+    color: white;
+    padding: 8px;
+  }
+
+  .name {
+    color: white;
+    padding: 8px;
+  }
+
+.h1 {
+    color: white;
+}
